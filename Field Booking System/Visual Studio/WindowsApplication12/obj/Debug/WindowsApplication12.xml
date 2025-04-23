@@ -1,0 +1,52 @@
+﻿<?xml version="1.0"?>
+<doc>
+<assembly>
+<name>
+WindowsApplication12
+</name>
+</assembly>
+<members>
+<member name="P:WindowsApplication12.My.Resources.Resources.ResourceManager">
+	<summary>
+  Returns the cached ResourceManager instance used by this class.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources.Culture">
+	<summary>
+  Overrides the current thread's CurrentUICulture property for all
+  resource lookups using this strongly typed resource class.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources._19__Berapakah_Biaya_Pembuatan_Lapangan_Futsal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources.Background_Virtual_Nobar_Sepak_Bola_Digital_Biru">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources.bisnis_sewa_lapangan_futsal">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources.Gambar_WhatsApp_2025_04_15_pukul_16_20_45_d952c4db">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources.jenis_lapangan_futsal_rumput_sintetis_1024x768">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources.jenis_lapangan_futsal_rumput_sintetis_1024x7681">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="P:WindowsApplication12.My.Resources.Resources.pngtree_realistic_soccer_stadium_perspective_image_for_professional_use_image_16704791">
+	<summary>
+  Looks up a localized resource of type System.Drawing.Bitmap.
+</summary>
+</member><member name="T:WindowsApplication12.My.Resources.Resources">
+	<summary>
+  A strongly-typed resource class, for looking up localized strings, etc.
+</summary>
+</member>
+</members>
+</doc>
