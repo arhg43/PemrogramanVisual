@@ -1,0 +1,17 @@
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe.config
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.exe
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.pdb
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\WindowsApplication12.xml
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form1.resources
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Resources.resources
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.vbproj.GenerateResource.Cache
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.exe
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.xml
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.pdb
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form2.resources
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\bin\Debug\mysql.data.dll
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.vbprojResolveAssemblyReference.cache
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form3.resources
+c:\users\acer\onedrive\documents\visual studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form4.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form5.resources
+C:\Users\ACER\OneDrive\Documents\Visual Studio 2012\Projects\WindowsApplication12\WindowsApplication12\obj\Debug\WindowsApplication12.Form6.resources
